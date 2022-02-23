@@ -20,7 +20,7 @@ press ctrl+f, then type in "changeme" and your gang name
 then hold enter
 
 in the INSERT INTO `jobs` (name, label) VALUES
-	('changeme', 'change me') change the "change me (the label) to your gang name
+	('changeme', 'change me') change the "change me" (the label) to your gang name
   
   in the job grades change the label to your job grades
   
